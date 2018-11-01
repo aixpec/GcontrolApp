@@ -1,5 +1,7 @@
 {
-  "projectId":"51",
+  "project": {
+  		"projectId"
+  	},
   "mediaResources":[
   	{
   		"id":"1",
