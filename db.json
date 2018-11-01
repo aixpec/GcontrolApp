@@ -1,11 +1,27 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "projectId":"51",
+  "mediaResources":[
+  	{
+  		"id":"1",
+  		"idActividad:"1",
+  		"nombreActividad":"Calle 1",
+  		"tipoRecurso":"video",
+  		"URL":"https://youtu.be/rBiyoc4E3mM"
+  		"titulo":"Calle 1",
+  		"fecha":"2018-10-29",
+  		"descripcion":"lorep ipsum",
+  		"caratula":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVY"
+  	},
+  	{
+  		"id":"1",
+  		"idActividad:"1",
+  		"nombreActividad":"Calle 1",
+  		"tipoRecurso":"video",
+  		"URL":"https://youtu.be/rBiyoc4E3mM"
+  		"titulo":"Calle 1",
+  		"fecha":"2018-10-29",
+  		"descripcion":"lorep ipsum",
+  		"caratula":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVY"
+  	}
+  ]
 }
